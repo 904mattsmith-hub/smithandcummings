@@ -111,12 +111,6 @@ section.band.soft { background: var(--bg-soft); }
   width: 160px; height: 160px; border-radius: 50%; object-fit: cover;
   object-position: top; margin: 0 auto 18px; border: 3px solid var(--line);
 }
-.agent-card .initials {
-  width: 160px; height: 160px; border-radius: 50%; margin: 0 auto 18px;
-  background: var(--navy); color: #fff; display: flex; align-items: center;
-  justify-content: center; font-family: 'Cormorant Garamond', Georgia, serif;
-  font-size: 3rem; border: 3px solid var(--line);
-}
 .agent-card h3 { font-size: 1.5rem; }
 .agent-card .role { color: var(--cyan); font-size: 0.8rem; letter-spacing: 0.18em; text-transform: uppercase; margin: 4px 0 12px; }
 .agent-card p { color: var(--muted); font-size: 0.95rem; }
